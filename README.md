@@ -1,2 +1,2 @@
-# Se-liga
-Para postar o projeto do se liga
+# 3J-2Projeto
+Repositório para guardar os códigos do segundo projeto
